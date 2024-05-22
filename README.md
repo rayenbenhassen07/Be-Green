@@ -55,7 +55,7 @@ beGreen/
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/rayenbenhassen07/Be-Green.git](https://github.com/rayenbenhassen07/Be-Green.git)
+   git clone https://github.com/rayenbenhassen07/Be-Green.git
    cd beGreen
 2. Install dependencies:
   # For backend
