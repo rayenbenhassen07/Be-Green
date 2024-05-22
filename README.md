@@ -98,9 +98,9 @@ If you want to contribute, please fork the repository and use a feature branch. 
 ## Acknowledgements
 I am incredibly grateful for the opportunity to participate in the Hackathon Ramathan 1445:2024 and for the support of the Arab American Society. This experience has reinforced my passion for leveraging technology to address real-world challenges.
 
-## Contact me 
-  email: rayenbenhassen10@gmail.com
-  portfolio : rayenbenhassen.com
-  my agency : Roubly.com
+## Contact me .
+  email: rayenbenhassen10@gmail.com.
+  portfolio : rayenbenhassen.com.
+  my agency : Roubly.com.
 
 Watch the final video : https://youtu.be/_8mIRuBohB8
